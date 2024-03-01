@@ -17,6 +17,7 @@ search.audienceType:
 > Unsure about table vs. entity? See [Developers: Understand terminology in Microsoft Dataverse](/powerapps/developer/data-platform/understand-terminology).
 
 solution history data
+This solution isn't available to be used any longer using Web API or SDK, instead you can use: https://learn.microsoft.com/en-us/power-apps/developer/data-platform/reference/entities/msdyn_solutionhistory
 
 
 ## Messages
